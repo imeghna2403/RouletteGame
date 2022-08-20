@@ -3,7 +3,6 @@ A Roulette Game executed in Python Language.
 
 Roulette Game is a Python executable code executed in Jupyter Notebook using simple if-else,while loop & random module .
 
-
 The rules of the game are as follows:
 
 
